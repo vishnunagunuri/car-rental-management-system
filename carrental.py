@@ -4,6 +4,8 @@ Created on Sat Apr  6 17:32:42 2024
 
 @author: nagun
 """
+
+""
 import mysql.connector as connector
 
 
